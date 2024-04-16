@@ -40,8 +40,18 @@ main img {
 
 #about .group {
   display: flex;
-  flex-direction: center;
-  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#about .item {
+  flex: 1; 
+  margin: 0 10px; 
+  max-width: calc(50% - 20px);
+}
+
+#about .item-double {
+  max-width: 600px; 
 }
 
 /* ---  Groups & Items --- */
