@@ -44,21 +44,6 @@ main img {
   align-items: center;
 }
 
-#about .item {
-  flex: 1; 
-  margin: 0 10px; 
-}
-
-#about .item-double {
-  max-width: 600px; 
-}
-
-#about img {
-  max-width: 100%;
-  height: auto; 
-  margin-bottom: 20px; 
-}
-
 /* ---  Groups & Items --- */
 
 .group {
