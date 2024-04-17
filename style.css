@@ -35,7 +35,7 @@ main img {
 }
 
 #about {
-  text-align: center;
+  text-align: left;
 }
 
 #about .group {
@@ -52,6 +52,7 @@ main img {
 
 #about .item-double {
   max-width: 600px; 
+  text-align: left;
 }
 
 /* ---  Groups & Items --- */
